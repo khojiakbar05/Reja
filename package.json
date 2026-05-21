@@ -1,5 +1,7 @@
 {
   "name": "reja",
+  "author": "MIKE",
+  "license": "ISC",
   "version": "1.0.0",
   "description": "bu bizning birinchi loyihamiz",
   "main": "server.js",
@@ -9,8 +11,6 @@
     "train": "nodemon train.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "bekzodali",
-  "license": "ISC",
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.3",
